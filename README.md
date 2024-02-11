@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Surxon media](https://www.surxonmedia.com/)
 
-- 🌱 I’m currently learning **react, redux, tailwindcss**
+- 🌱 I’m currently learning **react, redux, tailwindcss** 
 
 - 💬 Ask me about **Web development, web app**
 
